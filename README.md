@@ -1,1 +1,1 @@
-# php_calculator
+Calc PHP
